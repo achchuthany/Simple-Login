@@ -1,4 +1,4 @@
-# This is a simple PHP login script using PHP, PDO, and MySQL
+# This is a simple PHP login script using PHP and MySQL
 
 ## database 
 * use the database-sql.sql file to create the database  in MySQL
