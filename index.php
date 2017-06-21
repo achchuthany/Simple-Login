@@ -6,7 +6,7 @@ include_once 'config.php';
     <html>
 
     <head>
-        <title>Home | Koding Made Simple</title>
+        <title>Home | Simple-Login</title>
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
     </head>
